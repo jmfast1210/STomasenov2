@@ -1,3 +1,4 @@
+{
 "version": 2,
       "framework": null,
     "functions": {
@@ -6,4 +7,5 @@
     "routes": [{
         "src": "/(.*)",
         "dest": "/api/index.php"
-    }],
+    }]
+}
