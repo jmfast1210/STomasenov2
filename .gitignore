@@ -51,3 +51,5 @@ resources/docs
 storage/framework/laravel-excel/
 /.scribe
 /.env.testing
+
+.vercel
